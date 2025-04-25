@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=7A3FF7&center=true&vCenter=true&width=435&lines=Привет%2C+я+kardan-sudo!;Чемпион+Орловской+области;1+взрослый+разряд;Python+%26+Vue.js+Developer" alt="Typing SVG" />
+  <img src="avatar.jpg" alt="Typing SVG" />
 </p>
 
 <h3 align="center">
