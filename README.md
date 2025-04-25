@@ -19,8 +19,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,vue,postgres,redis,docker,nginx,git,github" />
 </p>
-[![kardan-sudo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kardan-sudo&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/kardan-sudo)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kardan-sudo&layout=compact&theme=radical&hide_border=true)](https://github.com/kardan-sudo)
 
 ---
 
@@ -33,9 +31,9 @@
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=kardan-sudo&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kardan-sudo&theme=dark)](https://git.io/streak-stats)
 
-[![kardan-sudo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kardan-sudo&show_icons=true&theme=radical)](https://github.com/kardan-sudo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kardan-sudo&layout=compact&theme=radical)](https://github.com/kardan-sudo)
 
 </div>
 
