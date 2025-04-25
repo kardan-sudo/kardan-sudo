@@ -38,14 +38,6 @@
 </div>
 
 
-### 📫 Как связаться
-
-<p align="center">
-  <a href="https://t.me/your_telegram"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://vk.com/your_profile"><img src="https://img.shields.io/badge/VK-%231DA1F2?style=for-the-badge&logo=VK&logoColor=white"/></a>
-</p>
-
 ---
 
 <p align="center">
