@@ -17,23 +17,13 @@
 ### 🛠️ Мой стек технологий
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,vue,js,ts,postgres,redis,docker,nginx,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,django,vue,postgres,redis,docker,nginx,git,github" />
 </p>
 
 ---
 
 ### 🏆 Мои достижения
 
-<div align="center">
-  
-| 🏅 | Достижение |
-|----|------------|
-| 🥇 | Чемпион Орловской области по спортивному программированию |
-| 🎖️ | 1 взрослый разряд по спортивному программированию |
-| 🏅 | Призер всероссийских олимпиад (ВКОШП, Технокубок) |
-| 📊 | Рейтинг Codeforces: Expert (макс. 1800+) |
-
-</div>
 
 ---
 
@@ -41,30 +31,12 @@
 
 <div align="center">
   
-[![LeetCode Stats](https://leetcard.jacoblin.cool/kardan-sudo?theme=dark&font=Roboto)](https://leetcode.com/kardan-sudo/)
-
-[![CodeForces Stats](https://cf.leed.at?id=kardan-sudo)](https://codeforces.com/profile/kardan-sudo)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=kardan-sudo&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![kardan-sudo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kardan-sudo&show_icons=true&theme=radical)](https://github.com/kardan-sudo)
 
 </div>
 
----
-
-### 🔥 Последние проекты
-
-<div align="center">
-
-| Проект | Описание | Технологии |
-|--------|-----------|------------|
-| [Project X](https://github.com/kardan-sudo/project-x) | Крутой проект с AI | Python, Vue, Postgres |
-| [CodeBattle](https://github.com/kardan-sudo/codebattle) | Платформа для соревнований | Django, DRF, WebSockets |
-
-</div>
-
----
 
 ### 📫 Как связаться
 
