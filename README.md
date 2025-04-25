@@ -18,8 +18,8 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,vue,postgres,redis,docker,nginx,git,github" />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kardan-sudo&layout=compact)](https://github.com/kardan-sudo/github-readme-stats)
 </p>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kardan-sudo&layout=compact)](https://github.com/kardan-sudo/github-readme-stats)
 
 
 ---
