@@ -1,8 +1,7 @@
 ## Hi there 👋
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kardan-sudo)](https://git.io/streak-stats)
 
-### 📈 GitHub Activity Graph:
-![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?kardan-sudo)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kardan-sudo&show_icons=true&theme=radical)
 <!--
 **kardan-sudo/kardan-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
